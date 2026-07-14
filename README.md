@@ -1,7 +1,7 @@
 # facebook-reporting-bot
 <p align="center"><img src="logos.png" width="250px" height="250px" alt="fb logs"></p>
-<h2 align="center">Telegram https://t.me/fbrepsn</h2>
-<h2 align="center">Join our telegram here > <a href="https://t.me/fbrepsn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></h2>
+<h2 align="center">Telegram https://telegram.me/fbrepsn</h2>
+<h2 align="center">Join our telegram here > <a href="https://telegram.me/fbrepsn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a></h2>
 
 ## What is a Bot/Tool for Reporting an Account or Page on FaceBook❓
    Definition of a Bot/Tool:.
@@ -11,7 +11,7 @@
 
 
 # How can i get this Bot/Tool or to report an account or page ❓
-  * Join our telegram here > <a href="https://t.me/fbrepsn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  * Join our telegram here > <a href="https://telegram.me/fbrepsn"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   * Check all the proof.
   * Below each video you will see our contact starting with @ contact us on that username.
 </pre>
